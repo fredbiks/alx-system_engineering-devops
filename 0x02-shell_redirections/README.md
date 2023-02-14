@@ -22,3 +22,4 @@ display /etc/passwd file
 17-hidethisword
 100-empty_casks
 101-gifs
+102-acrostic

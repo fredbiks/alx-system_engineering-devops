@@ -10,3 +10,4 @@
 13-change_group
 12-directory_permissions
 11-directories_permissions
+10-mirror_permissions
